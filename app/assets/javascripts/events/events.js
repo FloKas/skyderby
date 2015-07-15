@@ -446,7 +446,7 @@ Event.Competition.prototype = {
         var org_index = $.inArray(organizer, this.organizers);
         this.organizers.splice(org_index, 1);
     },
-}
+};
 
 ////////////////////////////////////////////
 //
@@ -455,5 +455,10 @@ $(document).on('ready page:load', function() {
     if ($('.event-data').length) {
         window.Competition = new Event.Competition;
         window.Competition.init($('.event-data'));
+        var event_model = new Skyderby.models.Event($('.event-data').data('details'));
+        var view = new Skyderby.views.Competition({
+            model: event_model,
+            can_manage: $('.event-data').data('can-manage'),
+        });
     }
 });
