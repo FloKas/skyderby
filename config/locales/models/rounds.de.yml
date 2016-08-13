@@ -1,5 +1,7 @@
 de:
   activerecord:
+    models:
+      round: Runde
     errors:
       models:
         round:

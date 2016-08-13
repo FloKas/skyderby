@@ -1,9 +1,6 @@
 de:
   events:
     show:
-      section: 'Kategorie'
-      competitor: 'Teilnehmer'
-      round: 'Runde'
       round_map_view: 'Rundentracks auf der Karte'
       comp_window: 'Competition window'
       total: 'Total'
