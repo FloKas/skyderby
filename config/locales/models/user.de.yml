@@ -1,0 +1,8 @@
+ru:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              taken: 'Die angegebene Emailadresse existiert schon in unserem System.'
