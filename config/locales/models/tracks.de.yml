@@ -1,0 +1,13 @@
+ru:
+  activerecord:
+    models:
+      track: 'Track'
+    attributes:
+      track:
+        id: '#'
+        name: 'Name'
+        suit: 'Suit'
+        place: 'Ort'
+        comment: 'Kommentar'
+        uploaded_at: 'Hochgeladen'
+        recorded_at: 'Aufgenommen'
