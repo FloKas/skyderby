@@ -18,5 +18,5 @@ de:
               blank: "'Kategorie' muss ausgewählt werden."
             base:
               restrict_dependent_destroy:
-                many: Um einen Wettkämpfer zu löschen müssen seine Ergebnisse vorher gelöscht werden.
-              event_finished: Es konnten keine Änderungen vorgenommen werden, da der Wettkampf bereits beendet ist.
+                many: Um einen Teilnehmer zu löschen müssen seine Ergebnisse vorher gelöscht werden.
+              event_finished: Es konnten keine Änderungen mehr vorgenommen werden, da der Wettkampf bereits beendet ist.
