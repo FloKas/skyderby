@@ -14,4 +14,4 @@ de:
             base:
               restrict_dependent_destroy:
                 many: Bitte lösche oder verschiebe die Teilnehmer in eine andere Kategorie bevor du diese Kategorie löscht.
-              event_finished: Es konnten keine Änderungen vorgenommen werden, da der Wettkampf bereits beendet ist.
+              event_finished: Es konnten keine Änderungen mehr vorgenommen werden, da der Wettkampf bereits beendet ist.
