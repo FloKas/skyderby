@@ -5,5 +5,5 @@ de:
     altitude: Höhe
     wind_speed: Windgeschwindigkeit
     wind_direction: Windrichtung
-    altitude_units: Höhe Einheit
-    wind_speed_units: Windgeschwindigkeit Einheit
+    altitude_units: Höheneinheiten
+    wind_speed_units: Windgeschwindigkeitseinheiten
