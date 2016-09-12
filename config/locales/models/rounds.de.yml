@@ -9,4 +9,4 @@ de:
             base:
               restrict_dependent_destroy:
                 many: Lösche bitte zuerst die Rundenergebnisse
-              event_finished: Es konnten keine Änderungen vorgenommen werden, da der Wettkampf bereits beendet ist.
+              event_finished: Es konnten keine Änderungen mehr vorgenommen werden, da der Wettkampf bereits beendet ist.
