@@ -1,11 +1,11 @@
 de:
   static_pages:
     about:
-      comp_t: 'Application works on:'
-      comp_lng: 'Language and backend framework:'
-      comp_fef: 'Frontend framework:'
-      comp_charts: 'Charts framework:'
-      comp_rs: 'Range selector:'
+      comp_t: 'Diese App basiert auf:'
+      comp_lng: 'Sprache und  Backend Framework:'
+      comp_fef: 'Frontend Framework:'
+      comp_charts: 'Charts Framework:'
+      comp_rs: 'Bereichsauswahl:'
       roadmap: "Projekt-Fahrplan:"
       trpr: "Quellcode Track Datenverarbeitung"
       fepr: 'Quellcode Frontend Datenverarbeitung'
