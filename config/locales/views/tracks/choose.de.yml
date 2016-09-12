@@ -1,7 +1,7 @@
 de:
   tracks:
     choose:
-      title: 'Track aussuchen zum hochladen'
+      title: 'Track zum hochladen aussuchen'
       number: 'Nummer'
       name: 'Trackname'
       elev: 'Höhenunterschied'
