@@ -6,3 +6,5 @@ de:
     mph: 'mi/h'
     t_unit: "sek"
     sec: s
+    ms: m/s
+    knots: Knoten
